@@ -97,3 +97,11 @@ wait_timeout=180
 interactive_timeout=180s
 ```
 
+https://blog.vinahost.vn/mysql
+
+
+https://vitux.com/tune-and-optimize-mysql-mariadb/
+
+
+https://www.woktron.com/secure/knowledgebase/272/How-to-optimize-MySQL-performance.html
+
